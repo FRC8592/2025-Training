@@ -4,7 +4,7 @@ RA:
 SK:
 AR:
 AC:
-JR:
+JR: Line things are cool or smth. Dunno what to put here.
 SL:
 RG:
 AP:
