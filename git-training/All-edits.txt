@@ -2,6 +2,8 @@ TS: This is the beginning of an EPIC FRC Pre-Season!
 AK:
 RA:
 SK:
+RA: FIFTH!
+SK:THIRD!
 AR:
 AC:
 JR: Line things are cool or something. Pretend I put a funny joke here.
