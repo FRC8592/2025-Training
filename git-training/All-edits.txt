@@ -1,4 +1,4 @@
-TS:
+TS: This is the beginning of an EPIC FRC Pre-Season!
 AK:
 RA:
 SK:
