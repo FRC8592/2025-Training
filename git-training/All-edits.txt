@@ -1,7 +1,7 @@
 TS:
 AK:
 RA:
-SK:
+SK:THIRD!
 AR:
 AC:
 JR:
