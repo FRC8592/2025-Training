@@ -1,14 +1,12 @@
-TS: This is the beginning of an EPIC FRC Pre-Season! Let's make sure we cook!
+TS: This is the beginning of an EPIC FRC Pre-Season!
 AK:
-RA:
-SK:
 RA: FIFTH!
 SK:THIRD!
 AR:
 AC: i like hatsune miku and kaito :D 
-JR: Line things are cool or something. Pretend I put a funny joke here.
+JR:
 SL:
 RG:
-AP: Ashwin_Branch
-JT:
+AP:
+JT: FIRST!
 CO:
