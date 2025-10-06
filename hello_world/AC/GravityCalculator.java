@@ -18,6 +18,8 @@ public class GravityCalculator {
 
         System.out.println("position after " + t + " secs is " + x + "m");
 
+        hiscanner.close();
+
     }
     
 }
