@@ -94,7 +94,10 @@ public class Book {
     {
         return numberCheckedOut;
     }
-
+    public String toString() {
+        
+       return "Title: " + title + ", Genre: " + genre + ", Author: " + author + ", Pages: " + numberOfPages + ", Type: " + type + ", Available: " + available;
+    }
 
 
 }
