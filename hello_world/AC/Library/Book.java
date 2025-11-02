@@ -94,8 +94,9 @@ public class Book {
     {
         return numberCheckedOut;
     }
-    public String toString() {
-        
+    //returns info about the book
+    public String toString() 
+    { 
        return "Title: " + title + ", Genre: " + genre + ", Author: " + author + ", Pages: " + numberOfPages + ", Type: " + type + ", Available: " + available;
     }
 

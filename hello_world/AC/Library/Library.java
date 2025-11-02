@@ -55,10 +55,19 @@ public class Library {
         return numberOfBooks - Book.getNumberCheckedOut();
     }
 
+    //prints library catalog
+    public void printCatalog()
+    {
+        for (int i = 0; i < numberOfBooks; i++)
+        {
+            System.out.println(libraryCatalog[i]);
+        }
+    }
+
     //searches for a book
     public Book searchForBookTitle(String searchTitle)
     {
-        for (int i = 0; i <= numberOfBooks; i++)
+        for (int i = 0; i < numberOfBooks; i++)
         {
             if ((libraryCatalog[i].getTitle()).equals(searchTitle))
             {
